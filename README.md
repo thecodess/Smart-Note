@@ -1,4 +1,4 @@
-Smart Note is a note app built with Jetpack Compose. You can Add, Delete and Update Notes.
+Smart Note is a note app based on MVVM architecture and is built with Jetpack Compose. You can Add, Delete and Update Notes.
 Tech Stack:
 
  Kotlin
