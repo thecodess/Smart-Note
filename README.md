@@ -3,6 +3,8 @@ Tech Stack:
 
  Kotlin
  
+ MVVM Architecture
+ 
  Jetpack Compose
  
  LiveData
